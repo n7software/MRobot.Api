@@ -4,7 +4,7 @@ namespace MRobot.Api.Models
   {
     Dark,
     Light,
-    KingDark,
-    KingLight,
+    King_Dark,
+    King_Light,
   }
 }
